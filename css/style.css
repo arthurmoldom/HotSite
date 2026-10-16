@@ -1,0 +1,77 @@
+body{
+    margin:0;
+    padding:20px;
+    background:#c0c0c0;
+    font-family:Verdana, Geneva, sans-serif;
+}
+
+.container{
+    max-width:900px;
+    margin:auto;
+    background:#fff;
+    border:3px solid navy;
+    padding:20px;
+}
+
+header{
+    text-align:center;
+    background:navy;
+    color:white;
+    padding:15px;
+}
+
+.marquee{
+    margin-top:10px;
+    background:yellow;
+    border:1px solid #000;
+}
+
+.counter{
+    margin:15px 0;
+    text-align:center;
+    font-weight:bold;
+    color:darkred;
+}
+
+.construction{
+    text-align:center;
+    margin:20px 0;
+}
+
+.construction img{
+    max-width:300px;
+}
+
+.section{
+    border:1px solid #666;
+    margin-top:20px;
+}
+
+.section h2{
+    background:#3366cc;
+    color:#fff;
+    padding:10px;
+    margin:0;
+}
+
+.section ul{
+    padding:20px 40px;
+}
+
+.section li{
+    margin-bottom:8px;
+}
+
+a{
+    color:blue;
+}
+
+a:hover{
+    color:red;
+}
+
+footer{
+    text-align:center;
+    margin-top:30px;
+    font-size:12px;
+}
